@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-environ
+psycopg2-binary
+django-environ
+pytest-django
+drf-spectacular
+pytest-coverage
+uvicorn
+pre-commit
