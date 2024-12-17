@@ -68,10 +68,6 @@ DATABASE_URL=postgres://postgres@localhost/postgres
 
 ```shell
 cookiecutter https://github.com/lexluter1988/cookiecutter-django.git
-
-cd <chosen project name>
-python3.10 -m venv venv
-source venv/bin/activate
 pip install pip-tools
 pip install cookiecutter
 
