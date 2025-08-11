@@ -67,9 +67,10 @@ DATABASE_URL=postgres://postgres@localhost/postgres
 ## Quick start
 
 ```shell
+pip install cookiecutter
 cookiecutter https://github.com/lexluter1988/cookiecutter-django.git
 pip install pip-tools
-pip install cookiecutter
+pre-commit install
 
 make deps
 python manage.py collectstatics
