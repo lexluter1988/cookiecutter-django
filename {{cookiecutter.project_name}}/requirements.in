@@ -8,3 +8,4 @@ drf-spectacular
 pytest-coverage
 uvicorn
 pre-commit
+djangorestframework-simplejwt
